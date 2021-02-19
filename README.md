@@ -4,3 +4,4 @@ CSE A
 CSE C
 CSE B
 SREC
+HAI
